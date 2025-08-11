@@ -2,6 +2,14 @@
 
 A powerful AI-powered application that converts natural language questions into SQL queries and provides natural language answers using your database.
 
+## 🏗️ Architecture Overview
+
+![Text-to-SQL Architecture](./images/flowChart.png)
+
+*Application architecture showing the flow from natural language input to SQL execution and natural language response generation.*
+
+> **Note:** Add your flowchart image to the `images/` folder and update the path above, or replace with your preferred image hosting solution.
+
 ## Features
 
 - 🗣️ **Natural Language to SQL**: Ask questions in plain English
@@ -11,6 +19,16 @@ A powerful AI-powered application that converts natural language questions into 
 - 📋 **Schema Viewer**: Explore your database structure
 - 🕒 **Query History**: Keep track of previous queries (Streamlit version)
 - 🎯 **Sample Questions**: Pre-built examples to get you started
+
+## 📸 Screenshots
+
+### Streamlit Interface
+![Streamlit App](./images/streamlit.png)
+
+### Gradio Interface  
+![Gradio App](./images/Gradio.png)
+
+*Upload your application screenshots to the `images/` folder to showcase your interfaces.*
 
 ## Installation
 

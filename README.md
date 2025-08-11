@@ -8,8 +8,6 @@ A powerful AI-powered application that converts natural language questions into 
 
 *Application architecture showing the flow from natural language input to SQL execution and natural language response generation.*
 
-> **Note:** Add your flowchart image to the `images/` folder and update the path above, or replace with your preferred image hosting solution.
-
 ## Features
 
 - 🗣️ **Natural Language to SQL**: Ask questions in plain English
@@ -28,7 +26,6 @@ A powerful AI-powered application that converts natural language questions into 
 ### Gradio Interface  
 ![Gradio App](./images/Gradio.png)
 
-*Upload your application screenshots to the `images/` folder to showcase your interfaces.*
 
 ## Installation
 

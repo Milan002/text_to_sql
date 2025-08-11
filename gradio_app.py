@@ -7,7 +7,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from dotenv import load_dotenv
 import os
 
-# Load environment variables
+# Load environment
 load_dotenv()
 
 # Initialize database and LLM
